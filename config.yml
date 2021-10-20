@@ -1,0 +1,8 @@
+api:
+  v1:
+    transactions: https://gry.lotto.pl/api/v1/players/self/transactions
+    searchTerms: searchTerms=%7B%22product%22%3A%22%22%2C%22lotteryTransactionType%22%3A%22%22%7D
+
+cookies:
+  gk_authe: xxx
+  gk_serv: xxx
